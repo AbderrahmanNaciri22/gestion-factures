@@ -124,12 +124,3 @@ Contraintes :
 
 ---
 
-## Installation
-
-```bash
-git clone <repo>
-cd gestion-factures-api
-npm install
-
-![diagram](image/digrameclass.png)
-![diagram](image/digramusecas.png)
