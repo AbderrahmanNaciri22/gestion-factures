@@ -151,5 +151,5 @@ Démarrage rapide :
 bash
 npm install && npm run dev
 
-![diagram](./image/digrameclass.png)
-![diagram](./image/digrameusecas.png)
+![diagram](image/digrameclass.png)
+![diagram](image/digrameusecas.png)
